@@ -1,6 +1,4 @@
 aiogram==3.10.0
 aiohttp==3.9.5
-pandas==2.2.0
-matplotlib==3.8.0
-numpy==1.26.0
 python-dotenv==1.0.0
+asciichartpy==1.5.3
